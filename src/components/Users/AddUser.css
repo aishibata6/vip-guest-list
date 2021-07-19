@@ -1,0 +1,20 @@
+.addGuestForm {
+  padding: 1rem;
+  background-color: #cad6fc;
+  margin: 2rem auto;
+  width: 50rem;
+  max-width: 95%;
+}
+
+.addGuestForm label,
+.addGuestForm input {
+  margin: 10px 0 10px;
+  width: 100%;
+  padding: 10px 0;
+  font-size: 1.5rem;
+}
+
+.addGuestForm input {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
