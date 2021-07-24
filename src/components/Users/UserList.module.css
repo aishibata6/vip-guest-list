@@ -1,0 +1,25 @@
+.users {
+  margin: 2rem auto;
+  width: 95%;
+  max-width: 50rem;
+  background: rgba(155, 183, 236, 0.507);
+}
+
+.headline {
+  padding: 20px 0 0 0;
+  color: aliceblue;
+}
+
+.users ul {
+  list-style: none;
+  padding: 0 1rem 1rem;
+}
+
+.users li {
+  border: none;
+  border-radius: 10px;
+  margin: 0.8rem 0;
+  padding: 1.2rem;
+  background: #cad6fc;
+  color: #001b42;
+}
