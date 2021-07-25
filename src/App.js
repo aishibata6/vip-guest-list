@@ -30,11 +30,11 @@ function App() {
   };
 
   return (
-    <div>
+    <React.Fragment>
       <h1>VIP List</h1>
       <AddUser onAddUser={addUserHandler} />
       <UserList users={users} />
-    </div>
+    </React.Fragment>
   );
 }
 
